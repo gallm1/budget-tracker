@@ -2,7 +2,7 @@
     
     "name": "Progressive Budget Tracker",
     "short_name": "Budget Tracker",
-    "description":  "",
+    "description":  "What does it all mean?",
     "icons": [
         {
             "src": "/icons/icon-512x512.png",
@@ -17,7 +17,7 @@
     ],
     "start_url": "/",
     "display": "standalone",
-    "them_color":  "#fff",
-    "background_color": "#fff"
+    "theme_color":  "#e2f5b3",
+    "background_color": "#e2f5b3"
 
 }
